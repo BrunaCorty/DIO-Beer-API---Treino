@@ -4,7 +4,7 @@
 
 ## Live coding, onde aprendemos, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Desenvolvimento de testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito.
 
-Meu primeiro passo foi criar uma Pasta no meu Desktop e nela armazenar meus arquivos.
+Meu primeiro passo foi criar uma Pasta no meu Desktop e nela armazenar os arquivos.
 O Typora (extenção .md) foi o programa escolhido por mim para escrever as anotações de projeto.
 Em seguida fui no site do Spring Boot (https://start.spring.io/) para escolher as dependências do meu projeto Maven na linguagem Java 17.
 
