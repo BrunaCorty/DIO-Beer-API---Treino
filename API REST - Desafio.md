@@ -6,7 +6,7 @@
 
 Meu primeiro passo foi criar uma Pasta no meu Desktop e nela armazenar meus arquivos.
 O Typora (extenção .md) foi o programa escolhido por mim para escrever as anotações de projeto.
-Em seguida fui no site do Spring Boot (https://start.spring.io/) para escolher as dependências do meu projeto Maven na linguagem Java 11.
+Em seguida fui no site do Spring Boot (https://start.spring.io/) para escolher as dependências do meu projeto Maven na linguagem Java 17.
 
 As dependências escolhidas foram:
 - Spring Boot Dev Tools
